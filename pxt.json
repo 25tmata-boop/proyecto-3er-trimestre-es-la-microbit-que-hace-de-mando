@@ -1,5 +1,6 @@
 {
     "name": "proyecto 3er trimestre (es la microbit que hace de mando",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
